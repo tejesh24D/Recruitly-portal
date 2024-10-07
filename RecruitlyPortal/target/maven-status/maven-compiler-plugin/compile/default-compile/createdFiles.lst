@@ -1,0 +1,7 @@
+com\example\RecruitlyPortal\config\CustomOidcUserService.class
+com\example\RecruitlyPortal\config\SecurityConfig.class
+com\example\RecruitlyPortal\repository\SchedulerLogRepository.class
+com\example\RecruitlyPortal\controller\DashboardController.class
+com\example\RecruitlyPortal\model\SchedulerLog.class
+com\example\RecruitlyPortal\RecruitlyPortalApplication.class
+com\example\RecruitlyPortal\service\SchedulerService.class
